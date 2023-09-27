@@ -1,4 +1,4 @@
-# Formation Ingénieur intelligence artificelle
+# Formation Ingénieur intelligence artificelle (OpenClassrooms)
 
 ## Projets réalisés:
 
