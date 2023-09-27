@@ -1,4 +1,6 @@
-# Projets de la formation Ingénieur intelligence artificelle
+# Formation Ingénieur intelligence artificelle
+
+## Projets réalisés:
 
 [Projet 1: Réinventons l'expérience client](https://github.com/20-100-oc/OC_P01)
 
