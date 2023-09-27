@@ -1,2 +1,1 @@
-# Projets_OC
-Réalisation pratiques de la formation Ingénieur Intelligence Artificielle d'OpenClassrooms
+# Projets de la formation Ingénieur intelligence artificelle
