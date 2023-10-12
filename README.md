@@ -6,7 +6,7 @@
 - Prédire le langage d'un texte avec un modèle de machine learning pré-entrainé
 
 ### [Projet 2: Participez à un concours sur la Smart City](https://github.com/20-100-oc/OC_P02)
-#### Objectif: 
+##### Objectif: 
 - 
 
 ### [Projet 3: Préparez des données pour un organisme de santé publique](https://github.com/20-100-oc/OC_P03)
