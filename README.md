@@ -45,8 +45,8 @@
 
 ### [Projet 10: Développez un chatbot pour réserver des vacances](https://github.com/20-100-oc/OC_P10)
 #### &ensp;Objectifs: 
-- Création d'un algorithme de chatbot
-- Intégration au chatbot d'un modèle de traitement du langage naturel
+- Création d'un chatbot
+- Intégration d'un modèle de traitement du langage au chatbot
 - Déploiement cloud et mise en place d'un environnement d'interaction
 
 ### [Projet 11: Réalisez le cadrage d’un projet IA](https://github.com/20-100-oc/OC_P11)
