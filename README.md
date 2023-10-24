@@ -30,7 +30,7 @@
 
 ### [Projet 7: Détectez les Bad Buzz grâce au Deep Learning](https://github.com/20-100-oc/OC_P07)
 #### &ensp;Objectifs: 
-- Création d'un modèle d'analyse de sentiments pour tweets (type BERT)
+- Création d'un modèle d'analyse de sentiments pour tweets
 - Déploiement cloud du modèle et mise en place d'une API
 
 ### [Projet 8: Participez à la conception d'une voiture autonome](https://github.com/20-100-oc/OC_P08)
