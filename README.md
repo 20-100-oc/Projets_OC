@@ -51,6 +51,6 @@
 
 ### [Projet 11: Réalisez le cadrage d’un projet IA](https://github.com/20-100-oc/OC_P11)
 #### &ensp;Objectifs: 
-- Préciser le projet (fonctionnalités, difficultés associées)
+- Préciser le projet (fonctionnalités du MVP, évaluation des difficultés, compétences requises)
 - Dimensionnement du projet (ressources humaines, techniques, financières, etc.)
 - Gestion des risques
