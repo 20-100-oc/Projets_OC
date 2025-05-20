@@ -11,8 +11,8 @@
 
 ### [Projet 3: Préparez des données pour un organisme de santé publique](https://github.com/20-100-oc/OC_P03)
 #### &ensp;Objectifs: 
-- Analyse, simplification d'un dataset pour une exploitation ultérieure par d'autres agents
-- test statistique pour vérifier une hypothèse
+- Analyse et simplification d'un dataset pour une exploitation ultérieure par d'autres agents
+- Test statistique pour vérifier une hypothèse
 
 ### [Projet 4: Construisez un modèle de scoring](https://github.com/20-100-oc/OC_P04)
 #### &ensp;Objectif: 
